@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb45adb5-9f85-4b14-9895-d4c036511873" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index-reactivity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max.reactivity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.finally.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/max.vdom.js" beforeDir="false" afterPath="$PROJECT_DIR$/max.vdom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <updated>1599820312104</updated>
       <workItem from="1599820313669" duration="609000" />
       <workItem from="1599820960702" duration="1531000" />
-      <workItem from="1599822504202" duration="7422000" />
+      <workItem from="1599822504202" duration="11300000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,4 @@
+
 const vdomExample = {
     tag: 'div',
     props: {
@@ -35,7 +36,7 @@ function mount(vnode, container) {
     const el = document.createElement(vnode.tag)
 
     for( const key in vnode.props) {
-        el.setAttribute(key, vnode[key])
+        el.setAttribute(key, vnode.props[key])
     }
 
     if(typeof vnode.children === 'string') {

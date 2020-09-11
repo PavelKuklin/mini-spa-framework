@@ -24,8 +24,7 @@
             h('p',{ class: 'description'},'Here we learn, where is behind of every modern JS framework')
         ])
 
-        const newNode = h(
-          'div',{class: 'container'}, [
+        const newNode = h('div',{class: 'container'}, [
               h('h1',{title: 'this is a title'}, 'Basic of JS Framework - updated',),
               h('div',{ class: 'description'},[
                 h('img', {
@@ -36,6 +35,7 @@
                 h('input', {}, [])
               ])
           ])
+
         function replaceNode()  {
             patch( node, newNode)
         }
